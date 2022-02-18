@@ -1,6 +1,16 @@
 
 # Ticket Assignment
 
+First Read Image attachments and understand story and check attached codes. Also Do Not Change any code in Ticket.py file.
+ <div>
+    <img src = "1.jpg" align = "center" width = "600">
+    <p></p>
+    <img src = "2.jpg" align = "center" width = "600">
+    <p></p>
+    <img src = "3.jpg" align = "center" width = "600">
+    <p></p>
+</div>
+
 1. No Ticket objects can be created (in your writing classes, see below), Yet we can create Ticket objects on TicketTester.py to check all possibilities.  I'm providing the base Class  Ticket.py so that helps do this assignment successfully.
 
 2. Assume the field "days" is an integer, and that "price" is a float type. REQUIRED "days", coded only once, then the sub-class inherits!!!
@@ -15,12 +25,6 @@
 
     I'm adding requirements (above), which should not violate anything stated above.  Please use this as a chance to "explore" the workings of inheritance, with rigorous adherence my specifications, and be certain the following test code works:  TicketTester.py
     
-    <img src = "1.jpg" align = "center" width = "600">
-    <p></p>
-    <img src = "2.jpg" align = "center" width = "600">
-    <p></p>
-    <img src = "3.jpg" align = "right" width = "600">
-    <p></p>
     Attached solutions in repository:
     1. Ticket.py
     2. TicketTester.py
