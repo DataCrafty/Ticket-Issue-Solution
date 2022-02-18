@@ -15,11 +15,11 @@
 
     I'm adding requirements (above), which should not violate anything stated above.  Please use this as a chance to "explore" the workings of inheritance, with rigorous adherence my specifications, and be certain the following test code works:  TicketTester.py
     
-    <img src = "1.jpg" align = "center" width = "400">
+    <img src = "1.jpg" align = "center" width = "600">
     <p></p>
-    <img src = "2.jpg" align = "center" width = "400">
+    <img src = "2.jpg" align = "center" width = "600">
     <p></p>
-    <img src = "3.jpg" align = "center" width = "400">
+    <img src = "3.jpg" align = "right" width = "600">
     <p></p>
     Attached solutions in repository:
     1. Ticket.py
