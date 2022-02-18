@@ -14,8 +14,16 @@
     In reality, we should connect this to a database to verify ticket numbers etc...., but that is outside the scope now.  My Ticket Class just uses an array(list) to keep track of which ticket numbers have been used, thus avoiding duplicate ticket numbers.  Each Ticket gets a unique number, but of course that resets if you start the program all over again.
 
     I'm adding requirements (above), which should not violate anything stated above.  Please use this as a chance to "explore" the workings of inheritance, with rigorous adherence my specifications, and be certain the following test code works:  TicketTester.py
-
+    
+    <img src = "1.jpg" align = "center" width = "400">
+    <p></p>
+    <img src = "2.jpg" align = "center" width = "400">
+    <p></p>
+    <img src = "3.jpg" align = "center" width = "400">
+    <p></p>
     Attached solutions in repository:
-    1. StudentAdvanceTicket.py 
-    2. AdvanceTicket.py
-    3. WalkupTicket.py
+    1. Ticket.py
+    2. TicketTester.py
+    3. StudentAdvanceTicket.py
+    4. AdvanceTicket.py
+    5. WalkupTicket.py
